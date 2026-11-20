@@ -277,9 +277,10 @@ outputs:
                                           retrieved-context prompt tokens
 
   Priority pruning                503 tokens before vs. 394 after pruning
-
+  
   Summarization                    406 full-history prompt tokens vs. 265
                                          summarized-context prompt tokens
+                                         
   -----------------------------------------------------------------------
 
 These are **individual illustrative runs on synthetic conversations**,
