@@ -39,7 +39,7 @@ strategies.
 
 **File:** `Memory_architecture.py`
 
-![alt text](<WhatsApp Image 2026-11-20 at 17.37.43.jpeg>)
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-20 at 17 37 43" src="https://github.com/user-attachments/assets/73b0cbcc-a616-4c6d-8dc9-997c0d57daa2" />
 
 The script sends two independent requests to Qwen3 8B:
 
